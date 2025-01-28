@@ -1,2 +1,2 @@
 # Check-Prime-.so
-Check prime numbers using a share object
+Uses a sieve of Eratosthenes to check for prime numbers using a shared object in C++
